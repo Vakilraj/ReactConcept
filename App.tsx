@@ -42,7 +42,7 @@ import useStateClass from './src/useStateConcept.js';
 
 import MainClass from './src/callback/Concept.js'
 import MainClassUseMemo from './src/useMemo/CounterUseMemo.js';
-import SignupClass from "./src/appCode/signup.js";
+import SignupClass from './src/appCode/SignupClass.js'
 
 // anup
 const App = () => {
